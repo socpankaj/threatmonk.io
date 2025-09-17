@@ -1,4 +1,4 @@
-The list of compromised packages has been compiled from publicly available open-source intelligence related to the Shai-Hulud campaign.
+#Note: The list of compromised packages has been compiled from publicly available open-source intelligence related to the Shai-Hulud campaign.
 
 @ahmedhfarag/ngx-perfect-scrollbar@20.0.20
 @ahmedhfarag/ngx-virtual-scroller@4.0.4
